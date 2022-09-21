@@ -1,4 +1,4 @@
-# Deriv Fintech
+# FS Fintech
 
 ## Slide 1
 ### What is Fintech
